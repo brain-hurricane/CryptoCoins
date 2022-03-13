@@ -3,6 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidProjects/CryptoCoin/app/src/main/res/drawable/ic_launcher_btc_background.xml" value="0.1515" />
+        <entry key="..\:/AndroidProjects/CryptoCoin/app/src/main/res/layout-land/activity_coin_prce_list.xml" value="0.3472972972972973" />
+        <entry key="..\:/AndroidProjects/CryptoCoin/app/src/main/res/layout/activity_app_settings.xml" value="0.2015625" />
+        <entry key="..\:/AndroidProjects/CryptoCoin/app/src/main/res/layout/activity_coin_detail_info.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidProjects/CryptoCoin/app/src/main/res/layout/activity_coin_prce_list.xml" value="0.3729166666666667" />
+        <entry key="..\:/AndroidProjects/CryptoCoin/app/src/main/res/layout/fragment_coin_detail.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidProjects/CryptoCoin/app/src/main/res/layout/item_coin_info.xml" value="0.3729166666666667" />
+        <entry key="..\:/AndroidProjects/CryptoCoin/app/src/main/res/menu/bottom_bar_menu.xml" value="0.2015625" />
+        <entry key="..\:/AndroidProjects/CryptoCoin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_btc.xml" value="0.1515" />
         <entry key="..\:/Users/olegb/AndroidStudioProjects/CryptoApp/app/src/main/res/drawable/file.xml" value="0.196" />
         <entry key="..\:/Users/olegb/AndroidStudioProjects/CryptoApp/app/src/main/res/drawable/free-icon-font-settings-3917051_24.xml" value="0.2225" />
         <entry key="..\:/Users/olegb/AndroidStudioProjects/CryptoApp/app/src/main/res/drawable/ic_icon_settings.xml" value="0.2225" />

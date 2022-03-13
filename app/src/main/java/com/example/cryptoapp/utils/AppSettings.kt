@@ -1,5 +1,4 @@
 import android.content.Context
-import com.example.cryptoapp.Currency
 
 class AppSettings(context: Context) {
 
